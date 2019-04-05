@@ -1,0 +1,14 @@
+C:\Users\KEMURI\Desktop\assignment\ista 220\Exercise\Exercise 2A - Calculating Averages\Sum of numbers\Sum of numbers\obj\Debug\Sum of numbers.csprojAssemblyReference.cache
+C:\Users\KEMURI\Desktop\assignment\ista 220\Exercise\Exercise 2A - Calculating Averages\Sum of numbers\Sum of numbers\obj\Debug\Sum of numbers.csproj.CoreCompileInputs.cache
+C:\Users\KEMURI\Desktop\assignment\ista 220\Exercise\Exercise 2A - Calculating Averages\Sum of numbers\Sum of numbers\bin\Debug\Sum of numbers.exe.config
+C:\Users\KEMURI\Desktop\assignment\ista 220\Exercise\Exercise 2A - Calculating Averages\Sum of numbers\Sum of numbers\bin\Debug\Sum of numbers.exe
+C:\Users\KEMURI\Desktop\assignment\ista 220\Exercise\Exercise 2A - Calculating Averages\Sum of numbers\Sum of numbers\bin\Debug\Sum of numbers.pdb
+C:\Users\KEMURI\Desktop\assignment\ista 220\Exercise\Exercise 2A - Calculating Averages\Sum of numbers\Sum of numbers\obj\Debug\Sum of numbers.exe
+C:\Users\KEMURI\Desktop\assignment\ista 220\Exercise\Exercise 2A - Calculating Averages\Sum of numbers\Sum of numbers\obj\Debug\Sum of numbers.pdb
+C:\Users\KEMURI\Desktop\the hub\3_Sum of numbers\Sum of numbers\bin\Debug\Sum of numbers.exe.config
+C:\Users\KEMURI\Desktop\the hub\3_Sum of numbers\Sum of numbers\bin\Debug\Sum of numbers.exe
+C:\Users\KEMURI\Desktop\the hub\3_Sum of numbers\Sum of numbers\bin\Debug\Sum of numbers.pdb
+C:\Users\KEMURI\Desktop\the hub\3_Sum of numbers\Sum of numbers\obj\Debug\Sum of numbers.csprojAssemblyReference.cache
+C:\Users\KEMURI\Desktop\the hub\3_Sum of numbers\Sum of numbers\obj\Debug\Sum of numbers.csproj.CoreCompileInputs.cache
+C:\Users\KEMURI\Desktop\the hub\3_Sum of numbers\Sum of numbers\obj\Debug\Sum of numbers.exe
+C:\Users\KEMURI\Desktop\the hub\3_Sum of numbers\Sum of numbers\obj\Debug\Sum of numbers.pdb
